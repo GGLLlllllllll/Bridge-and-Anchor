@@ -19,7 +19,8 @@ pip install -r requirements.txt
 # Model Train
 # Please generate images with diverse styles in Phase 1.py first.
 # Please train the entire network using the original image and the generated image in Phase 2.py.
-python Train.py
+python Phase 1.py
+python Phase 2.py
 ```
 
 ### Citation ✏️ 📄
